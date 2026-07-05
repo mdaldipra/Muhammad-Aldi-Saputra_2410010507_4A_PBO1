@@ -285,5 +285,4 @@ try {
 ## Pembuat
 
 Nama: Muhammad Aldi Saputra
-NPM : 2410010507
 NPM: 2410010507
